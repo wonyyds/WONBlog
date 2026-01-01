@@ -33,7 +33,7 @@ export default defineConfig({
       image: {
     service: passthroughImageService()
   },
-    site: "https://acofork.com",
+    site: "https://blog.xiaowon.cn",
     base: "/",
     trailingSlash: "always",
     output: "static",
@@ -46,10 +46,8 @@ export default defineConfig({
       "/tg": "https://t.me/+_07DERp7k1ljYTc1",
       "/tit": "/posts/pin/",
       "/tly": "https://tianlicloud.cn/aff/HNNCFKGP",
-      "/wly": "https://wl.awcmam.com/#/register?code=FNQwOQBM",
-      "/yyb": "https://www.rainyun.com/acofork_?s=bilibili",
-      "/iku": "https://ikuuu.de/auth/register?code=Bjou",
-      "/esa": "https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&recordId=c856e61228828a0423417a767828d166"
+      "/rain": "https://www.rainyun.com/won_",
+      "/aliyun": "https://www.aliyun.com/minisite/goods?userCode=m77xupui"
     },
     integrations: [tailwind({
         nesting: true,

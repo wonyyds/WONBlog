@@ -39,6 +39,14 @@ export type SiteConfig = {
 
 	favicon: Favicon[];
 	officialSites?: (string | { url: string; alias: string })[];
+	cloudProviders?: CloudProvider[];
+};
+
+export type CloudProvider = {
+	name: string;
+	url: string;
+	icon?: string;
+	badge?: string;
 };
 
 export type Favicon = {

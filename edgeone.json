@@ -41,23 +41,13 @@
       "statusCode": 302
     },
     {
-      "source": "/yyb",
-      "destination": "https://www.rainyun.com/acofork_?s=bilibili",
+      "source": "/rain",
+      "destination": "https://www.rainyun.com/won_",
       "statusCode": 302
     },
     {
-      "source": "/iku",
-      "destination": "https://ikuuu.de/auth/register?code=Bjou",
-      "statusCode": 302
-    },
-    {
-      "source": "/iku",
-      "destination": "https://ikuuu.de/auth/register?code=Bjou",
-      "statusCode": 302
-    },
-    {
-      "source": "/esa",
-      "destination": "https://tianchi.aliyun.com/specials/promotion/freetier/esa?taskCode=25254&recordId=c856e61228828a0423417a767828d166",
+      "source": "/aliyun",
+      "destination": "https://www.aliyun.com/minisite/goods?userCode=m77xupui",
       "statusCode": 302
     }
   ]

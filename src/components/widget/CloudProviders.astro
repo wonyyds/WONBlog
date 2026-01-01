@@ -1,0 +1,114 @@
+---
+import WidgetLayout from "./WidgetLayout.astro";
+import { Icon } from "astro-icon/components";
+import { siteConfig } from "@/config";
+
+interface Props {
+	class?: string;
+	style?: string;
+}
+const className = Astro.props.class;
+const style = Astro.props.style;
+
+const cloudProviders = siteConfig.cloudProviders || [];
+---
+
+{cloudProviders.length > 0 && (
+<WidgetLayout name="云服务" id="cloud-providers" class={className} style={style}>
+    <div class="flex flex-col gap-2">
+        {cloudProviders.map((provider, index) => (
+            <a 
+                href={provider.url}
+                data-url={provider.url}
+                data-index={index}
+                target="_blank"
+                rel="noopener sponsored"
+                class="cloud-provider-link btn-regular !justify-between px-3 py-2 rounded-lg text-sm group truncate"
+            >
+                <div class="flex items-center gap-2 truncate">
+                    <span class="cloud-provider-icon w-5 h-5 flex items-center justify-center">
+                        {provider.icon ? (
+                            provider.icon.startsWith('/') ? (
+                                <img src={provider.icon} alt={provider.name} class="w-full h-full max-w-[1.25rem] max-h-[1.25rem]" />
+                            ) : (
+                                <Icon name={provider.icon} class="w-full h-full max-w-[1.25rem] max-h-[1.25rem]" />
+                            )
+                        ) : (
+                            <span class="text-xs opacity-70">{provider.name.charAt(0)}</span>
+                        )}
+                    </span>
+                    <span class="truncate">{provider.name}</span>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="latency-text text-xs font-bold opacity-0 transition-opacity"></span>
+                    <span class="cloud-provider-badge text-xs px-2 py-0.5 rounded-full bg-[var(--primary)] text-white">
+                        {provider.badge || '云服务'}
+                    </span>
+                </div>
+            </a>
+        ))}
+    </div>
+</WidgetLayout>
+)}
+
+<script>
+    async function testLatency() {
+        const links = document.querySelectorAll('.cloud-provider-link');
+        for (const link of links) {
+            const url = link.getAttribute('data-url');
+            const latencyText = link.querySelector('.latency-text');
+            
+            if (!url || !latencyText) continue;
+
+            // Loading state
+            latencyText.textContent = '...';
+            latencyText.classList.remove('opacity-0', 'text-green-500', 'text-yellow-500', 'text-red-500');
+            latencyText.classList.add('opacity-50');
+
+            const start = performance.now();
+            let latency = -1;
+            
+            try {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), 5000);
+                
+                await fetch(url, { 
+                    method: 'HEAD',
+                    mode: 'no-cors', 
+                    cache: 'no-store',
+                    signal: controller.signal
+                });
+                
+                clearTimeout(timeoutId);
+                const end = performance.now();
+                latency = Math.round(end - start);
+            } catch (e) {
+                // Error or timeout
+            }
+
+            latencyText.classList.remove('opacity-50');
+            
+            if (latency >= 0) {
+                latencyText.textContent = `${latency}ms`;
+                latencyText.classList.add('opacity-100');
+                if (latency < 200) {
+                    latencyText.classList.add('text-green-600', 'dark:text-green-400');
+                } else if (latency < 500) {
+                    latencyText.classList.add('text-yellow-600', 'dark:text-yellow-400');
+                } else {
+                    latencyText.classList.add('text-red-600', 'dark:text-red-400');
+                }
+            } else {
+                latencyText.textContent = '-';
+                latencyText.classList.add('text-red-600', 'dark:text-red-400');
+            }
+        }
+    }
+
+    // 延迟执行延迟测试
+    setTimeout(testLatency, 1000);
+    
+    document.addEventListener('astro:page-load', () => {
+        setTimeout(testLatency, 1000);
+    });
+</script>

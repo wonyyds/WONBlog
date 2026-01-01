@@ -1,4 +1,5 @@
 import type {
+    CloudProvider,
     ExpressiveCodeConfig,
 	GitHubEditConfig,
 	ImageFallbackConfig,
@@ -25,9 +26,9 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: false,
-		src: "/xinghui.avif", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 
-		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
+		position: "bottom", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
 			text: "Pixiv @chokei", // Credit text to be displayed
@@ -37,7 +38,7 @@ export const siteConfig: SiteConfig = {
 	},
 	background: {
 		enable: true, // Enable background image
-		src: "https://eopfapi.acofork.com/pic?img=ua", // Background image URL (supports HTTPS)
+		src: "https://eopfapi.xiaowon.cn/pic?img=ua", // Background image URL (supports HTTPS)
 		position: "center", // Background position: 'top', 'center', 'bottom'
 		size: "cover", // Background size: 'cover', 'contain', 'auto'
 		repeat: "no-repeat", // Background repeat: 'no-repeat', 'repeat', 'repeat-x', 'repeat-y'
@@ -51,13 +52,27 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// Leave this array empty to use the default favicon
 		{
-			src: "https://q2.qlogo.cn/headimg_dl?dst_uin=2726730791&spec=0", // Path of the favicon, relative to the /public directory
+			src: "https://q2.qlogo.cn/headimg_dl?dst_uin=2287365860&spec=0", // Path of the favicon, relative to the /public directory
 			//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 			//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
 		},
 	],
 	officialSites: [
-		{ url: "https://acofork.com", alias: "EdgeOne CN" },
+		{ url: "https://xiaowon.cn", alias: "EdgeOne CN" },
+	],
+	cloudProviders: [
+		{
+			name: "阿里云",
+			url: "/aliyun/",
+			icon: "/Cloud-Service/aliyun.ico",
+			badge: "优惠",
+		},
+		{
+			name: "雨云",
+			url: "/rain/",
+			icon: "/Cloud-Service/rainyun.ico",
+			badge: "优惠",
+		},
 	],
 };
 
@@ -77,31 +92,31 @@ export const navBarConfig: NavBarConfig = {
 		},
 		{
 			name: "统计",
-			url: "https://umami.acofork.com/share/CdkXbGgZr6ECKOyK", // Internal links should not include the base path, as it is automatically added
+			url: "https://umami.xiaowon.cn/share/E6Nzf8TLkwhLjGCB", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 		{
 			name: "状态",
-			url: "https://stats.uptimerobot.com/VAtAH0mzPN", // Internal links should not include the base path, as it is automatically added
+			url: "https://status.xiaowon.cn/status/won", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},
 	],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "https://pic1.zhimg.com/v2-96ea43b46c46cb31e7e39154bd77cad2_r.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	avatar: "https://q2.qlogo.cn/headimg_dl?dst_uin=2287365860&spec=0", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "WON",
 	bio: "Protect What You Love.",
 	links: [
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/325903362",
+			url: "https://space.bilibili.com/3546610866850078",
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/afoim",
+			url: "https://github.com/won114514",
 		},
 	],
 };
@@ -114,14 +129,14 @@ export const licenseConfig: LicenseConfig = {
 
 export const imageFallbackConfig: ImageFallbackConfig = {
 	enable: true,
-	originalDomain: "eopfapi.acofork.com",
-	fallbackDomain: "eopfapi.b.2.f.f.0.7.4.0.1.0.0.2.ip6.arpa/pic?img=ua",
+	originalDomain: "https://eopfapi.xiaowon.cn/pic?img=ua",
+	fallbackDomain: "https://eopfapi.xiaowon.cn/pic?img=ua",
 };
 
 export const umamiConfig: UmamiConfig = {
 	enable: true,
-	baseUrl: "https://umami.acofork.com",
-	shareId: "CdkXbGgZr6ECKOyK",
+	baseUrl: "https://umami.xiaowon.cn",
+	shareId: "E6Nzf8TLkwhLjGCB",
 	timezone: "Asia/Shanghai",
 };
 
@@ -131,7 +146,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 
 export const gitHubEditConfig: GitHubEditConfig = {
 	enable: true,
-	baseUrl: "https://github.com/afoim/fuwari/blob/main/src/content/posts",
+	baseUrl: "https://github.com/won114514/WONBlog/blob/main/src/content/posts",
 };
 
 // todoConfig removed from here

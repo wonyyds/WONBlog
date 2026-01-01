@@ -2,7 +2,7 @@
 title: leleo-home-page 个人主页——搭建教程
 published: 2025-08-05T12:17:47
 description: 'leleo-home-page 个人主页——搭建教程'
-image: ''
+image: 'https://eopfapi.xiaowon.cn/pic?img=ua&leleo-home-page'
 tags: ['搭建教程', 'leleo-home-page']
 draft: false 
 lang: 'zh_CN'
