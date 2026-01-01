@@ -1,4 +1,1661 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>WONの次元</title><description>技术分享与实践</description><link>https://acofork.com/</link><language>zh_CN</language><item><title>leleo-home-page 个人主页——搭建教程</title><link>https://acofork.com/posts/leleo-home-page/</link><guid isPermaLink="true">https://acofork.com/posts/leleo-home-page/</guid><description>leleo-home-page 个人主页——搭建教程</description><pubDate>Tue, 05 Aug 2025 12:17:47 GMT</pubDate><content:encoded>&lt;h1&gt;leleo-home-page 个人主页搭建教程&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>WONの次元</title><description>技术分享与实践</description><link>https://blog.xiaowon.cn/</link><language>zh_CN</language><item><title>云服务商推荐 - 阿里云/雨云优惠</title><link>https://blog.xiaowon.cn/posts/cloud-service-recommend/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/cloud-service-recommend/</guid><description>推荐优质云服务商，阿里云、雨云等均有优惠活动，助力个人和企业上云</description><pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;云服务商推荐 - 阿里云/雨云优惠活动&lt;/h1&gt;
+&lt;p&gt;在数字化时代，选择一个稳定、高效的云服务商对于个人开发者和企业都至关重要。今天为大家推荐两家优质的云服务商：阿里云和雨云，目前都有不错的优惠活动。&lt;/p&gt;
+&lt;h2&gt;阿里云推荐&lt;/h2&gt;
+&lt;p&gt;阿里云是全球知名的云计算及人工智能科技公司，提供全面的云计算服务，包括云服务器、数据库、存储、网络等。&lt;/p&gt;
+&lt;h3&gt;优惠信息&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;折扣优惠&lt;/strong&gt;：使用专属优惠链接可享 &lt;strong&gt;8.5 折&lt;/strong&gt; 优惠&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用对象&lt;/strong&gt;：新用户可享受&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;推荐配置&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;个人网站/博客：1核2G，适合个人开发者和小型项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;阿里云优势&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;稳定可靠&lt;/strong&gt;：服务稳定，SLA可达99.9%&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;全球节点&lt;/strong&gt;：覆盖全球多个区域，访问速度快&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;丰富产品线&lt;/strong&gt;：从基础的ECS到AI、大数据等高级服务&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术支持&lt;/strong&gt;：7x24小时技术支持&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;/aliyun/&quot;&gt;点击这里访问阿里云优惠页面&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;雨云推荐&lt;/h2&gt;
+&lt;p&gt;雨云是一家专注于提供高性价比云服务的厂商，特别适合个人开发者和中小型企业。&lt;/p&gt;
+&lt;h3&gt;优惠信息&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;折扣优惠&lt;/strong&gt;：使用专属优惠链接可享 &lt;strong&gt;8 折&lt;/strong&gt; 优惠 (优惠码: won)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;适用对象&lt;/strong&gt;：新老用户均可享受&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;推荐配置&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;入门套餐：1核1G，适合个人博客和小项目&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;雨云优势&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;性价比高&lt;/strong&gt;：价格实惠，配置灵活&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;国内节点&lt;/strong&gt;：国内较多多节点覆盖，访问速度快&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;简单易用&lt;/strong&gt;：管理后台简洁，易于操作&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;快速部署&lt;/strong&gt;：支持一键部署常用应用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;/rain/&quot;&gt;点击这里访问雨云优惠页面&lt;/a&gt;
+&lt;img src=&quot;https://blog.xiaowon.cn/_astro/rainreg.-2MUiZNR_1rYHni.webp&quot; alt=&quot;注册&quot; /&gt;&lt;/p&gt;
+&lt;h2&gt;如何选择&lt;/h2&gt;
+&lt;h3&gt;选择阿里云如果您：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;需要企业级稳定性和可靠性&lt;/li&gt;
+&lt;li&gt;有复杂的业务需求&lt;/li&gt;
+&lt;li&gt;需要全球部署&lt;/li&gt;
+&lt;li&gt;对技术支持要求较高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;选择雨云如果您：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;预算有限，追求性价比&lt;/li&gt;
+&lt;li&gt;主要面向国内用户&lt;/li&gt;
+&lt;li&gt;需要简单易用的云服务&lt;/li&gt;
+&lt;li&gt;个人项目或小型应用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;注意事项&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;按需选择&lt;/strong&gt;：根据实际业务需求选择合适的配置&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;关注续费&lt;/strong&gt;：注意优惠价格的续费政策&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据备份&lt;/strong&gt;：定期备份重要数据&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全设置&lt;/strong&gt;：合理设置防火墙和安全策略&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;结语&lt;/h2&gt;
+&lt;p&gt;无论选择阿里云还是雨云，都可以通过专属优惠链接享受折扣。建议根据自己的实际需求和预算进行选择，云服务的选择对于项目的稳定运行至关重要。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;温馨提醒&lt;/strong&gt;：点击上方链接访问相应云服务商，即可享受专属优惠价格！
+选择适合的云服务商，助力您的项目腾飞！&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>联系我——加群方式</title><link>https://blog.xiaowon.cn/posts/pin/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/pin/</guid><description>关于如何联系WON</description><pubDate>Wed, 31 Dec 2025 17:02:58 GMT</pubDate><content:encoded>&lt;h1&gt;联系我——加群方式&lt;/h1&gt;
+&lt;p&gt;欢迎联系WON！如果您有任何问题或需要进一步了解，可以通过以下方式联系我。&lt;/p&gt;
+&lt;h2&gt;加群方式&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;QQ群&lt;/strong&gt;：
+&lt;a href=&quot;https://qm.qq.com/q/CrnI2V1nTa&quot;&gt;点击链接加入群聊【WON的小窝】&lt;/a&gt;
+&lt;img src=&quot;https://blog.xiaowon.cn/_astro/qq.cZmRtpd4_Z11TPGy.webp&quot; alt=&quot;加群二维码&quot; /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telegram群&lt;/strong&gt;：&lt;a href=&quot;https://t.me/+PjIbr7dGYHk0NWRl&quot;&gt;Telegram: Join Group Chat WON的小窝&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;其他联系方式&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;邮箱&lt;/strong&gt;：&lt;code&gt;admin@mail.xiaowon.cn&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B站&lt;/strong&gt;：&lt;a href=&quot;https://space.bilibili.com/3546610866850078&quot;&gt;点击访问个人主页&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;温馨提示&lt;/strong&gt;：为保护隐私，建议在加入群组后遵守群规，文明交流。如需进一步帮助，请在群内或通过上述联系方式说明您的需求。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;em&gt;本文档由WON提供&lt;/em&gt;&lt;/p&gt;
+</content:encoded></item><item><title>Nginx反向代理 教程|文档</title><link>https://blog.xiaowon.cn/posts/nginx-reverse-proxy/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/nginx-reverse-proxy/</guid><description>Nginx反向代理 教程|文档 反向代理是重要的功能，nginx提供了反向代理功能，本文将详细介绍nginx反向代理的配置方法。</description><pubDate>Tue, 23 Sep 2025 21:46:59 GMT</pubDate><content:encoded>&lt;h1&gt;Nginx 反向代理配置文档&lt;/h1&gt;
+&lt;h2&gt;1. 概述&lt;/h2&gt;
+&lt;p&gt;Nginx 是一款高性能的 HTTP 和反向代理服务器，常用于负载均衡、缓存、安全防护等场景。反向代理是指客户端请求发送到代理服务器，由代理服务器将请求转发给后端真实服务器，并将响应结果返回给客户端，客户端并不知道后端服务器的存在。&lt;/p&gt;
+&lt;h3&gt;1.1 正向代理 vs 反向代理&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;代理对象&lt;/th&gt;
+&lt;th&gt;客户端是否感知&lt;/th&gt;
+&lt;th&gt;典型用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;正向代理&lt;/td&gt;
+&lt;td&gt;客户端&lt;/td&gt;
+&lt;td&gt;知道&lt;/td&gt;
+&lt;td&gt;翻墙、访问控制&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;反向代理&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;服务器&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;不知道&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;负载均衡、安全、缓存&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2&gt;2. 基础配置语法&lt;/h2&gt;
+&lt;h3&gt;2.1 基本结构&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;server {
+    listen 80;
+    server_name example.com;
+
+    location / {
+        proxy_pass http://backend_server;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+upstream backend_server {
+    server 192.168.1.10:8080;
+    server 192.168.1.11:8080;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;3. 关键指令详解&lt;/h2&gt;
+&lt;h3&gt;3.1 &lt;code&gt;proxy_pass&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;定义后端服务器地址。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;location /api/ {
+    proxy_pass http://127.0.0.1:3000/;  # 注意结尾斜杠
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;⚠️ 注意：&lt;code&gt;proxy_pass&lt;/code&gt; 后是否带 &lt;code&gt;/&lt;/code&gt; 会影响 URL 路径转发行为。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3&gt;3.2 &lt;code&gt;proxy_set_header&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;设置转发给后端的请求头。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;proxy_set_header Host $host;
+proxy_set_header X-Real-IP $remote_addr;
+proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+proxy_set_header X-Forwarded-Proto $scheme;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;3.3 &lt;code&gt;proxy_redirect&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;修改后端返回的 &lt;code&gt;Location&lt;/code&gt; 和 &lt;code&gt;Refresh&lt;/code&gt; 头。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;proxy_redirect off;
+# 或
+proxy_redirect http://backend/ /;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;3.4 &lt;code&gt;proxy_buffering&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;启用/禁用响应缓冲（默认开启）。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;proxy_buffering on;
+proxy_buffer_size 4k;
+proxy_buffers 8 4k;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;3.5 &lt;code&gt;proxy_connect_timeout&lt;/code&gt;, &lt;code&gt;proxy_read_timeout&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;设置超时时间（单位：秒）。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;proxy_connect_timeout 60s;
+proxy_send_timeout 60s;
+proxy_read_timeout 60s;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;4. 实用配置示例&lt;/h2&gt;
+&lt;h3&gt;4.1 单后端服务器代理&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;server {
+    listen 80;
+    server_name myapp.com;
+
+    location / {
+        proxy_pass http://localhost:8080;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;4.2 负载均衡配置（Upstream）&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;upstream backend {
+    server 10.0.0.1:8080 weight=3;   # 权重3
+    server 10.0.0.2:8080 weight=1;
+    server 10.0.0.3:8080 backup;     # 备用服务器
+}
+
+server {
+    listen 80;
+    server_name loadbalance.com;
+
+    location / {
+        proxy_pass http://backend;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4&gt;负载均衡策略：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;轮询（默认）&lt;/code&gt;：按顺序分配&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;：权重分配&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ip_hash&lt;/code&gt;：根据客户端IP分配（会话保持）&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;least_conn&lt;/code&gt;：最少连接优先&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;hash $request_uri consistent&lt;/code&gt;：一致性哈希&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4.3 WebSocket 代理支持&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;location /ws/ {
+    proxy_pass http://backend;
+    proxy_http_version 1.1;
+    proxy_set_header Upgrade $http_upgrade;
+    proxy_set_header Connection &quot;upgrade&quot;;
+    proxy_set_header Host $host;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;4.4 HTTPS 反向代理&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;server {
+    listen 443 ssl http2;
+    server_name secure.example.com;
+
+    ssl_certificate /path/to/fullchain.pem;
+    ssl_certificate_key /path/to/privkey.pem;
+
+    location / {
+        proxy_pass http://backend;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;  # 告知后端是HTTPS
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;4.5 缓存配置（可选）&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;proxy_cache_path /var/cache/nginx levels=1:2 keys_zone=my_cache:10m max_size=1g inactive=60m use_temp_path=off;
+
+server {
+    location / {
+        proxy_cache my_cache;
+        proxy_cache_valid 200 302 10m;
+        proxy_cache_valid 404 1m;
+        proxy_pass http://backend;
+        add_header X-Cache-Status $upstream_cache_status;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;5. 安全与优化建议&lt;/h2&gt;
+&lt;h3&gt;5.1 隐藏 Nginx 版本号&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;server_tokens off;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;5.2 限制请求大小和速率&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;client_max_body_size 10M;
+limit_req_zone $binary_remote_addr zone=api:10m rate=10r/s;
+
+location /api/ {
+    limit_req zone=api burst=20 nodelay;
+    proxy_pass http://backend;
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;5.3 启用 Gzip 压缩&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;gzip on;
+gzip_types text/plain text/css application/json application/javascript text/xml application/xml;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;5.4 设置合理的超时与缓冲&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;proxy_connect_timeout 5s;
+proxy_send_timeout 10s;
+proxy_read_timeout 30s;
+proxy_buffering on;
+proxy_buffer_size 16k;
+proxy_buffers 4 64k;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;6. 调试与日志&lt;/h2&gt;
+&lt;h3&gt;6.1 自定义日志格式&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;log_format upstream_time &apos;$remote_addr - $remote_user [$time_local] &apos;
+                         &apos;&quot;$request&quot; $status $body_bytes_sent &apos;
+                         &apos;&quot;$http_referer&quot; &quot;$http_user_agent&quot; &apos;
+                         &apos;rt=$request_time uct=&quot;$upstream_connect_time&quot; uht=&quot;$upstream_header_time&quot; urt=&quot;$upstream_response_time&quot;&apos;;
+
+access_log /var/log/nginx/access.log upstream_time;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;6.2 调试代理问题&lt;/h3&gt;
+&lt;p&gt;在 &lt;code&gt;location&lt;/code&gt; 块中添加：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;add_header X-Upstream $upstream_addr;
+add_header X-Upstream-Status $upstream_status;
+add_header X-Upstream-Response-Time $upstream_response_time;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;7. 重载配置&lt;/h2&gt;
+&lt;p&gt;修改配置后执行：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 测试配置语法
+nginx -t
+
+# 重载配置（不中断服务）
+nginx -s reload
+
+# 或使用系统服务
+systemctl reload nginx
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;8. 常见问题排查&lt;/h2&gt;
+&lt;h3&gt;❌ 502 Bad Gateway&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;后端服务未启动&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;proxy_pass&lt;/code&gt; 地址错误&lt;/li&gt;
+&lt;li&gt;防火墙/安全组阻止连接&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❌ 504 Gateway Timeout&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;后端处理超时 → 增大 &lt;code&gt;proxy_read_timeout&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;网络延迟过高&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❌ WebSocket 连接失败&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;未设置 &lt;code&gt;proxy_http_version 1.1&lt;/code&gt; 和 &lt;code&gt;Upgrade/Connection&lt;/code&gt; 头&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;❌ 静态资源 404&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;检查 &lt;code&gt;proxy_pass&lt;/code&gt; 路径是否匹配&lt;/li&gt;
+&lt;li&gt;检查后端应用路由配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;9. 完整示例配置文件&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;# /etc/nginx/sites-available/myapp
+
+upstream app_servers {
+    server 127.0.0.1:3000;
+    server 127.0.0.1:3001;
+    keepalive 32;
+}
+
+server {
+    listen 80;
+    server_name myapp.example.com;
+    return 301 https://$server_name$request_uri;
+}
+
+server {
+    listen 443 ssl http2;
+    server_name myapp.example.com;
+
+    ssl_certificate /etc/letsencrypt/live/myapp.example.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/myapp.example.com/privkey.pem;
+
+    access_log /var/log/nginx/myapp.access.log;
+    error_log /var/log/nginx/myapp.error.log;
+
+    client_max_body_size 20M;
+
+    location / {
+        proxy_pass http://app_servers;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+
+        proxy_connect_timeout 5s;
+        proxy_send_timeout 10s;
+        proxy_read_timeout 30s;
+
+        proxy_buffering on;
+        proxy_buffer_size 16k;
+        proxy_buffers 4 64k;
+
+        # WebSocket 支持
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection &quot;upgrade&quot;;
+    }
+
+    # 静态资源缓存（可选）
+    location ~* \.(jpg|jpeg|png|gif|ico|css|js)$ {
+        expires 1y;
+        add_header Cache-Control &quot;public, immutable&quot;;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;10. 参考资料&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://nginx.org/en/docs/http/ngx_http_proxy_module.html&quot;&gt;Nginx 官方文档 - ngx_http_proxy_module&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/&quot;&gt;Nginx 负载均衡指南&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ssl-config.mozilla.org/&quot;&gt;Mozilla SSL 配置生成器&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;✅ 本配置文档适用于 Nginx 1.18+ 版本，建议在生产环境前进行充分测试。&lt;/p&gt;
+</content:encoded></item><item><title>remio-home个人主页 搭建文档</title><link>https://blog.xiaowon.cn/posts/remio-home/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/remio-home/</guid><description>remio-home个人主页 搭建文档</description><pubDate>Tue, 23 Sep 2025 20:47:01 GMT</pubDate><content:encoded>&lt;h1&gt;Remio-Home个人主页&lt;/h1&gt;
+&lt;p&gt;remio-home(homepage): 基于配置的个人主页&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Next.js构建，服务端渲染，较好的SEO&lt;/li&gt;
+&lt;li&gt;部署方便，支持docker，vercel快速部署&lt;/li&gt;
+&lt;li&gt;配置方便，支持在线配置，文件配置&lt;/li&gt;
+&lt;li&gt;Pwa 支持，也可进行配置&lt;/li&gt;
+&lt;li&gt;移动端适配...&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;预览：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.xiaowon.cn&quot;&gt;WON的小窝&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;服务器推荐：
+&lt;a href=&quot;https://www.rainyun.com/won_&quot;&gt;服务器推荐&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;部署&lt;/h2&gt;
+&lt;h3&gt;容器部署&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;拉取镜像&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre&gt;&lt;code&gt;docker pull kasuie/remio-home
+
+# 如果因为网络原因拉取不到，可考虑阿里云镜像，运行下面这个
+
+docker pull registry.cn-shanghai.aliyuncs.com/remio/remio-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;启动容器&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意：启动容器需要根据自己需要，配置有所不同，请自行选择&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;创建项目目录，存放环境变量和配置文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre&gt;&lt;code&gt;# 创建目录并进入该目录
+mkdir remio-home &amp;amp;&amp;amp; cd remio-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;docker 启动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;启动前需要创建一个存放环境变量的文件，包括站点统计和站点密码，避免下次部署的时候忘记了&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 创建文件
+touch .env
+
+# 然后编辑环境变量，vim操作可以自行搜一下
+vim .env
+
+# 根据需要按需在文件内填写环境变量，一行一个，不要后面注释
+GTMID=value #Google Tag Manager
+GTAGID=value #Google Analytics
+BAIDUID=value #百度统计
+PASSWORD=your_password #密码，用于在线访问和编辑配置
+BaiduSiteVerify=xxxx #百度站点验证
+AMAP_KEY=xxxx #高德地图key
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;GTAGID&lt;/code&gt;为&lt;a href=&quot;https://analytics.google.com&quot;&gt;Google Analytics&lt;/a&gt;处获取的id，&lt;code&gt;GTMID&lt;/code&gt;为&lt;a href=&quot;https://tagmanager.google.com&quot;&gt;Google Tag Manager&lt;/a&gt;处获取的id，&lt;code&gt;BAIDUID&lt;/code&gt;为&lt;a href=&quot;https://tongji.baidu.com&quot;&gt;百度统计&lt;/a&gt;处获取的id，如果用&lt;code&gt;GTMID&lt;/code&gt; 不必再用其它两个了，根据自己需要来。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;编写环境变量文件后，然后运行：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 这里映射的宿主机端口为 3004，可自行修改，部署完成后 ip 加端口就可以访问了，然后-v 后面是挂载了三个目录，一个是配置文件的存放目录，一个是 icon 的存放目录，用于自定义 pwa 图标的，一个是 font 字体存放的存放目录，挂载后自动会创建目录
+docker run --name remio-home -p 3004:3000 --env-file ./.env -v ./config:/remio-home/config -v ./icons:/remio-home/public/icons -v ./fonts:/remio-home/public/fonts -d kasuie/remio-home
+
+# 如果你是用的阿里云镜像，则运行下面这个
+docker run --name remio-home -p 3004:3000 --env-file ./.env -v ./config:/remio-home/config -v ./icons:/remio-home/public/icons -v ./fonts:/remio-home/public/fonts -d registry.cn-shanghai.aliyuncs.com/remio/remio-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意挂载目录不要直接挂载到&lt;code&gt;/remio-home/public&lt;/code&gt;，这样会覆盖原有的文件，所以挂载其下面的目录，成功后，可以通过自己在线地址+目录名访问目录中的文件，如果需要自定义字体，填相对路径就好&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;运行成功之后，如果现在ip+端口打开页面，可以看到是默认配置的效果。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;自定义&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在当前目录下，刷新一下，应该会有一个你挂载的配置目录（&lt;code&gt;/config&lt;/code&gt;），修改一下该目录的权限为&lt;code&gt;777&lt;/code&gt;,这样才能进行在线配置修改：&lt;code&gt;sudo chmod  -R 777 ./config&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;然后进入该目录新建&lt;code&gt;config.json&lt;/code&gt;文件，就可以在线编辑了，在线上地址后面加上&lt;code&gt;/config&lt;/code&gt;进行访问，首次输入刚刚环境变量设置的密码验证通过后可以进行查看编辑配置。&lt;/p&gt;
+&lt;p&gt;当然你也可以在服务器上编辑&lt;code&gt;config.json&lt;/code&gt;文件里，直接填写你站点的配置信息。&lt;/p&gt;
+&lt;p&gt;可参考仓库里 &lt;code&gt;/src/config/config.json&lt;/code&gt; 进行修改，下方有参数说明可进行查看。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pwa支持及自定义图标&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;需要你在挂载目录&lt;code&gt;/usr/local/icons&lt;/code&gt;至少上传一张命名为 &lt;code&gt;favicon192.png&lt;/code&gt; 的图片，不然&lt;code&gt;pwa&lt;/code&gt;不会生效。另外为了还应包含&lt;code&gt;favicon64.png &lt;/code&gt;,&lt;code&gt;favicon128.png&lt;/code&gt;和&lt;code&gt;favicon512.png&lt;/code&gt;，这三种不是必须，但是不上传控制台会有报错，后续看情况可能会调整所需尺寸的张数。&lt;/p&gt;
+&lt;p&gt;以上配置（除了首次上传&lt;code&gt;favicon192.png&lt;/code&gt;）修改后不需要重启项目，在页面刷新一下就能看到效果了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;首次上传&lt;code&gt;favicon192.png&lt;/code&gt;的时候可能会出现，pwa没有生效，可能需要重启一下容器，运行&lt;code&gt;docker-compose restart&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;docker compose 启动&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;在刚刚新建的目录下，再创建一个配置文件&lt;code&gt;docker-compose.yml&lt;/code&gt;，内容如下：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;version: &quot;3&quot;
+
+services:
+  remio-home:
+    image: kasuie/remio-home # 阿里云用这个：registry.cn-shanghai.aliyuncs.com/remio/remio-home
+    container_name: remio-home
+    ports:
+      - &quot;3004:3000&quot;
+    environment:
+      - GTMID=value # Google Tag Manager
+      - GTAGID=value # Google Analytics
+      - BAIDUID=value # 百度统计
+      - PASSWORD=your password # 密码，用于在线访问和编辑配置
+      - BaiduSiteVerify=verifycode #百度站点验证
+      - AMAP_KEY=xxxx #高德地图key
+    volumes:
+      - ./config:/remio-home/config
+      - ./icons:/remio-home/public/icons
+      - ./fonts:/remio-home/public/fonts
+    restart: unless-stopped
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;然后运行命令启动：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker-compose up -d remio-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;配置也和docker启动一样，注意替换变量&lt;/p&gt;
+&lt;h4&gt;docker基本命令(后续运维用)&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;//关闭命令
+docker stop remio-home
+//启动命令/重启
+docker restart remio-home
+//更新容器 备份容器中的数据，并停止容器执行删除容器 和拉去镜像
+docker rm remio-home
+docker pull registry.cn-shanghai.aliyuncs.com/remio/remio-home
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3&gt;部署到Vercel&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;~注意，在线编辑仅支持&lt;code&gt;docker&lt;/code&gt;部署，vercel部署没办法持久化配置文件，所以每一次重新部署，都会重置配置~。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;新增功能：&lt;/strong&gt; 从 &lt;code&gt;v1.0.6&lt;/code&gt; 版本开始，vercel部署如果配置了数据库，也支持在线编辑，数据库仅支持&lt;code&gt;PostgreSQL&lt;/code&gt;，在vercel可以免费创建配置数据库，然后在项目环境变量处设置数据量连接的环境变量&lt;code&gt;PG_DATABASE_URL&lt;/code&gt;，格式为&lt;code&gt;postgres://xxxxxx&lt;/code&gt;，如果连接失败，可以去掉连接url的&lt;code&gt;?&lt;/code&gt;后面的参数。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://vercel.com/new/clone?repository-url=https://github.com/kasuie/remio-home&amp;amp;env=PASSWORD&amp;amp;project-name=remio-home&amp;amp;repository-name=remio-home&quot;&gt;&lt;img src=&quot;https://vercel.com/button&quot; alt=&quot;Deploy with Vercel&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;点击上方按钮即可，填写必要的环境变量，点击创建完成后，回到自己创建的仓库里，按需修改 &lt;code&gt;/src/config/config.json&lt;/code&gt; 文件即可。&lt;/p&gt;
+&lt;p&gt;自定义pwa图标和字体，在&lt;code&gt;/public&lt;/code&gt;目录下，上传&lt;code&gt;/public/icons&lt;/code&gt;覆盖已有的图标，字体上传到&lt;code&gt;/public/fonts&lt;/code&gt;，相对路径&lt;code&gt;/fonts/xxx.ttf&lt;/code&gt;就是你上传的字体文件，在配置字体资源路径的地方填写就好了。&lt;/p&gt;
+&lt;p&gt;以下是一些参数说明：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;name&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;站点标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;favicon&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点图标&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;domain&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;keywords&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点关键词（SEO用）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;description&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点描述性信息（SEO用）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;avatarConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#AvatarConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;AvatarConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;主页头像相关配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;layoutConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#LayoutConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;LayoutConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;布局相关的一些配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;globalStyle&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#GlobalStyle-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;GlobalStyle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;全局样式相关的一些配置，如字体，主题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bgConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#BgConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;BgConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;背景相关的一些配置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;subTitle&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点头像下的次标题。可填入一言API，例如：&lt;code&gt;https://v1.hitokoto.cn?c=a&amp;amp;c=b&amp;amp;c=c&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;footer&lt;/td&gt;
+&lt;td&gt;string/&lt;a href=&quot;#FooterConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;FooterConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;底部设置项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;links&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#link-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;Link[]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;社交媒体的链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sites&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#site-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;Site[]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;项目或者其他站点链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sitesConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#SitesConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;SitesConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;sites 渲染组件配置项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;subTitleConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#SubTitleConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;SubTitleConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;次标题渲染组件配置项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;socialConfig&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#SocialConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;SocialConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;社交媒体的链接渲染组件配置项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sliders&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#SlidersConfig-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;SlidersConfig&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;技能加点组件配置项&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;resources&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#Resources-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;Resources&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;加在第三方资源及添加一些自定义body&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;AvatarConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;hidden&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否隐藏该组件，默认&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;src&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;头像资源路径&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;size&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;头像尺寸&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;round&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;圆角程度，可选&lt;code&gt;full&lt;/code&gt;,&lt;code&gt;3xl&lt;/code&gt;,&lt;code&gt;xl&lt;/code&gt;,&lt;code&gt;sm&lt;/code&gt;,&lt;code&gt;md&lt;/code&gt;和&lt;code&gt;lg&lt;/code&gt;，默认&lt;code&gt;full&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hoverAnimate&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;头像&lt;code&gt;hover&lt;/code&gt; 时效果动画，可选&lt;code&gt;top&lt;/code&gt; 和 &lt;code&gt;rotate&lt;/code&gt;，默认为空没有动画&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;style&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;头像效果动画，可选&lt;code&gt;glint&lt;/code&gt; 和 &lt;code&gt;wave&lt;/code&gt;，默认为空没有动画&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;aloneRight&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;头像单独在右侧，&lt;code&gt;layoutConfig.style&lt;/code&gt;为&lt;code&gt;horizontal&lt;/code&gt;生效，默认&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;BgConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;bg&lt;/td&gt;
+&lt;td&gt;string/string[]&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;pc背景资源链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;mbg&lt;/td&gt;
+&lt;td&gt;string/string[]&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;移动端背景资源链&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;audio&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;背景音乐&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bgStyle&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;背景飘浮风格。可选值：&lt;code&gt;sakura&lt;/code&gt;(樱花) 或 &lt;code&gt;snow&lt;/code&gt;：(雪花)，也可自行填写飘浮物资源图片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;blur&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;背景模糊程度，可选&lt;code&gt;none&lt;/code&gt;,&lt;code&gt;sm&lt;/code&gt;,&lt;code&gt;md&lt;/code&gt;和&lt;code&gt;lg&lt;/code&gt;，默认&lt;code&gt;sm&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cardOpacity&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;卡片的透明度，&lt;code&gt;0-1&lt;/code&gt;之间，默认&lt;code&gt;0.1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;carousel&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;开启图片轮播，背景图片数大于1生效，默认&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;carouselGap&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;图片轮播间隔时间，单位s(秒)，默认&lt;code&gt;5s&lt;/code&gt;，最小&lt;code&gt;3s&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;transitionTime&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;图片轮播过渡时间，单位s(秒)，默认&lt;code&gt;0.7s&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;transitionStyle&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;图片轮播过渡动画，可选&lt;code&gt;default&lt;/code&gt;,&lt;code&gt;toBottom&lt;/code&gt;,&lt;code&gt;toTop&lt;/code&gt;,&lt;code&gt;toIn&lt;/code&gt;,&lt;code&gt;toInOut&lt;/code&gt;,&lt;code&gt;toRight&lt;/code&gt;和&lt;code&gt;toLeft&lt;/code&gt;，默认&lt;code&gt;default&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;autoAnimate&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;背景图动画，默认&lt;code&gt;false&lt;/code&gt;不开启&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;LayoutConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;istTransition&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否开启渲染过渡动画，默认开启&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gapSize&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;布局，可选&lt;code&gt;sm&lt;/code&gt;,&lt;code&gt;md&lt;/code&gt;和&lt;code&gt;lg&lt;/code&gt;，默认&lt;code&gt;sm&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;style&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;布局风格，可选&lt;code&gt;horizontal&lt;/code&gt;,&lt;code&gt;vertical&lt;/code&gt;，默认&lt;code&gt;vertical&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;GlobalStyle 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;fonts&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#FontItem-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;FontItem[]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;自定义字体数组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fallback&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;次要字体，优先级低于自定义字体，做字体垫片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;primaryColor&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;主题色，十六进制颜色值，默认&lt;code&gt;#229fff&lt;/code&gt;（蓝色），~没啥大用的样子~&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;theme&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;主题设置，可选：&lt;code&gt;dark&lt;/code&gt;,&lt;code&gt;light&lt;/code&gt;,&lt;code&gt;switcher&lt;/code&gt;。&lt;code&gt;switcher&lt;/code&gt;为开启切换按钮，其他的为固定主题，默认&lt;code&gt;light&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;weather&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否显示地理天气，默认&lt;code&gt;false&lt;/code&gt;不显示&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;FontItem 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;src&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;字体文件资源链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;name&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;给该字体取个名称，最好英文&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;FooterConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;text&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;展示文字&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;url&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;展示文字的链接地址，点击可跳转&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ICP&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;备案号，填写后会链接到工信部&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MPSICP&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;公安部备案号，填写后会链接到公安部&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;direction&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;排列方式，可选&lt;code&gt;col&lt;/code&gt;,&lt;code&gt;row&lt;/code&gt;，&lt;code&gt;col-reverse&lt;/code&gt;和&lt;code&gt;row-reverse&lt;/code&gt;，默认&lt;code&gt;col&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;isExternal&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否展示链接图标，默认&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Link 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;title&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;color&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;颜色&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;url&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;icon&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;图标链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Site 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;icon&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;图标链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;title&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;是&lt;/td&gt;
+&lt;td&gt;标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;url&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;链接，&lt;code&gt;url&lt;/code&gt; 为空，该元素在数组中后面的元素都会展示在弹框&lt;code&gt;modal&lt;/code&gt;中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;desc&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;描述&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;SubTitleConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;heart&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否显示右上角爱心图标，默认：&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;typing&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否开启打字效果，默认：&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;loading&lt;/td&gt;
+&lt;td&gt;string/boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;出现动画效果，可选&lt;code&gt;wave&lt;/code&gt;，默认为空没有动画&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;loopTyping&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否支持切换一言，&lt;code&gt;typing&lt;/code&gt;为&lt;code&gt;true&lt;/code&gt;生效，默认：&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;shadow&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否显示文字阴影效果，默认：&lt;code&gt;false&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;typingGap&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;一言间隔多久开始清除，单位秒(s)，默认为10s，最小3s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;typingCursor&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否展示打字光标，&lt;code&gt;typing&lt;/code&gt;为&lt;code&gt;true&lt;/code&gt;生效，默认：&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;showFrom&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否显示一言来源，默认：&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;style&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;layoutConfig.style&lt;/code&gt; 为 &lt;code&gt;horizontal&lt;/code&gt; 生效，样式风格，可选，&lt;code&gt;desc&lt;/code&gt;,&lt;code&gt;default&lt;/code&gt;，默认：&lt;code&gt;default&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;desc&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;subTitleConfig.style&lt;/code&gt; 为 &lt;code&gt;desc&lt;/code&gt; 生效，描述，如果需要分行展示以&lt;code&gt;;&lt;/code&gt;分隔，下同&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;content&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;subTitleConfig.style&lt;/code&gt; 为 &lt;code&gt;desc&lt;/code&gt; 生效，详细描述内容&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;gapDelay&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;文字出现间隔，单位秒，默认&lt;code&gt;0.05&lt;/code&gt;秒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;SocialConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;ripple&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否开启涟漪动画，默认：&lt;code&gt;true&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;loading&lt;/td&gt;
+&lt;td&gt;string/boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;出现动画效果，可选&lt;code&gt;wave&lt;/code&gt;，默认为空没有动画&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;SlidersConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;data&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;#Slider-%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E&quot;&gt;Slider[]&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;数据数组&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;title&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;标题，为空不展示&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hidden&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否隐藏该组件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;color&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;进度条自定义颜色，默认白色&lt;code&gt;#fff&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;column&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;一行展示几列，2-4的范围，默认&lt;code&gt;2&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Slider 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;title&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;color&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;颜色&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;value&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;技能掌握程度，0-100之间&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;icon&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;图标链接&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;关于icon&lt;/h4&gt;
+&lt;p&gt;目前内置有图标：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;    github, twitter, qq, telegram, email, steam, bilibili, discord, instargram, x
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;code&gt;icon&lt;/code&gt; 字段填写图标名即可使用，如果没有你需要的，也可以填写图标的资源链接使用&lt;/p&gt;
+&lt;h4&gt;SitesConfig 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;cardStyle&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;站点卡片风格，可选&lt;code&gt;default&lt;/code&gt;,&lt;code&gt;flip&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hoverBlur&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;hover状态下是否模糊&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hoverScale&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;hover状态下是否调整比例&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hoverFlip&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;卡片是否可翻转，默认&lt;code&gt;true&lt;/code&gt;，&lt;code&gt;cardStyle&lt;/code&gt;为&lt;code&gt;flip&lt;/code&gt;生效&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;direction&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;卡片内容排列方式，可选&lt;code&gt;col&lt;/code&gt;和&lt;code&gt;row&lt;/code&gt;，默认&lt;code&gt;col&lt;/code&gt;，&lt;code&gt;cardStyle&lt;/code&gt;为&lt;code&gt;flip&lt;/code&gt;生效&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;modal&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;是否显示&lt;code&gt;modal&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;modalTips&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;modal&lt;/code&gt;的提示语&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;modalTitle&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;modal&lt;/code&gt;的标题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4&gt;Resources 类型说明&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字段&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;必填&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;css&lt;/td&gt;
+&lt;td&gt;string[]&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;引入外部css&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;js&lt;/td&gt;
+&lt;td&gt;string[]&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;引入外部js&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;bodyHtml&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;否&lt;/td&gt;
+&lt;td&gt;自定义添加一些body内的html&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;本地启动&lt;/h3&gt;
+&lt;p&gt;安装依赖&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pnpm install // 需要先安装pnpm: https://pnpm.io/
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;本地启动&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pnpm dev
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;打包&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;pnpm build
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2&gt;补充&lt;/h2&gt;
+&lt;p&gt;在你部署后，在配置页面输入密码后，可在部署域名后面加上&lt;code&gt;/api/config&lt;/code&gt;查看目前的配置信息&lt;/p&gt;
+</content:encoded></item><item><title>Uptime Kuma 部署指南</title><link>https://blog.xiaowon.cn/posts/uptime-kuma/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/uptime-kuma/</guid><description>Uptime-Kuma 是一个用于监控网站和服务状态的开源工具。它可以帮助你实时监控你的网站是否正常运行，以及在网站出现问题时及时收到通知。</description><pubDate>Tue, 19 Aug 2025 10:58:17 GMT</pubDate><content:encoded>&lt;h1&gt;Uptime Kuma 部署指南&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;一款开源的服务器/网站监控工具，提供类似 Uptime Robot 的功能&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;目录&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;服务器面板部署
+&lt;ul&gt;
+&lt;li&gt;宝塔面板安装&lt;/li&gt;
+&lt;li&gt;1Panel面板安装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Docker通用部署
+&lt;ul&gt;
+&lt;li&gt;基础Docker部署&lt;/li&gt;
+&lt;li&gt;Docker Compose部署&lt;/li&gt;
+&lt;li&gt;反向代理配置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;初始配置指南&lt;/li&gt;
+&lt;li&gt;维护与升级&lt;/li&gt;
+&lt;li&gt;常见问题&lt;/li&gt;
+&lt;li&gt;安全建议&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h2&gt;服务器面板部署&lt;/h2&gt;
+&lt;h3&gt;宝塔面板安装&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;登录宝塔面板&lt;/li&gt;
+&lt;li&gt;进入软件商店&lt;/li&gt;
+&lt;li&gt;搜索 Uptime Kuma&lt;/li&gt;
+&lt;li&gt;点击安装&lt;/li&gt;
+&lt;li&gt;设置安装路径&lt;/li&gt;
+&lt;li&gt;确认安装&lt;/li&gt;
+&lt;li&gt;安装完成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;具体步骤：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;登录宝塔面板（&lt;code&gt;https://服务器IP:面板端口&lt;/code&gt;）&lt;/li&gt;
+&lt;li&gt;左侧导航栏点击「软件商店」&lt;/li&gt;
+&lt;li&gt;搜索框中输入 &quot;Uptime Kuma&quot;&lt;/li&gt;
+&lt;li&gt;找到应用后点击「安装」&lt;/li&gt;
+&lt;li&gt;设置安装路径（默认路径即可）&lt;/li&gt;
+&lt;li&gt;点击「提交」开始安装&lt;/li&gt;
+&lt;li&gt;安装完成后，通过 &lt;code&gt;http://服务器IP:3001&lt;/code&gt; 访问&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;注意&lt;/strong&gt;：如果安装后无法访问，请检查宝塔防火墙是否放行3001端口&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr /&gt;
+&lt;h3&gt;1Panel面板安装&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;登录1Panel&lt;/li&gt;
+&lt;li&gt;进入应用商店&lt;/li&gt;
+&lt;li&gt;搜索 Uptime Kuma&lt;/li&gt;
+&lt;li&gt;点击安装&lt;/li&gt;
+&lt;li&gt;配置容器参数&lt;/li&gt;
+&lt;li&gt;确认部署&lt;/li&gt;
+&lt;li&gt;访问服务&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;操作流程：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;登录1Panel面板（通常为 &lt;code&gt;http://服务器IP:10080&lt;/code&gt;）&lt;/li&gt;
+&lt;li&gt;左侧菜单选择「应用商店」&lt;/li&gt;
+&lt;li&gt;搜索 &quot;Uptime Kuma&quot;&lt;/li&gt;
+&lt;li&gt;点击「安装」按钮&lt;/li&gt;
+&lt;li&gt;配置容器参数：
+&lt;ul&gt;
+&lt;li&gt;容器名称：&lt;code&gt;uptime-kuma&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;端口映射：3001:3001&lt;/li&gt;
+&lt;li&gt;持久化存储：建议挂载 &lt;code&gt;/app/data&lt;/code&gt; 目录&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;点击「确认」开始部署&lt;/li&gt;
+&lt;li&gt;部署完成后，通过 &lt;code&gt;http://服务器IP:3001&lt;/code&gt; 访问&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2&gt;Docker通用部署&lt;/h2&gt;
+&lt;h3&gt;基础Docker部署&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;如果您想要限制对本地主机的暴露（而不向其他用户公开端口或使用反向代理），您可以像这样公开端口：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker run -d --restart=always -p 127.0.0.1:3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;参数说明：&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;-p 3001:3001&lt;/code&gt;：将容器内3001端口映射到宿主机&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;-v /path/to/data:/app/data&lt;/code&gt;：持久化数据存储&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;--restart=always&lt;/code&gt;：容器随Docker自动启动&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h3&gt;Docker Compose部署&lt;/h3&gt;
+&lt;p&gt;创建 &lt;code&gt;docker-compose.yml&lt;/code&gt; 文件：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;version: &apos;3.8&apos;
+
+services:
+  uptime-kuma:
+    image: louislam/uptime-kuma:latest
+    container_name: uptime-kuma
+    volumes:
+      - ./uptime-kuma-data:/app/data
+    ports:
+      - &quot;3001:3001&quot;
+    restart: always
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;构建命令：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker compose up -d
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;启动服务：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker start 容器名（uptime-kuma）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;重启服务：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker restart 容器名（uptime-kuma）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;停止服务：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;docker stop 容器名（uptime-kuma）
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h3&gt;反向代理配置&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Nginx配置示例：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;nginx:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;server {
+    listen 80;
+    server_name status.example.com; # 替换为你的域名
+
+    location / {
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        
+        # WebSocket 支持
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection &quot;upgrade&quot;;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;启用HTTPS（使用Let&apos;s Encrypt）：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;sudo apt update
+sudo apt install certbot python3-certbot-nginx
+sudo certbot --nginx -d status.example.com
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;替换&lt;code&gt;status.example.com&lt;/code&gt;为实际域名。 Certbot 会自动修改 Nginx 配置文件并启用 HTTPS。
+重启Nginx&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2&gt;初始配置指南&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;首次访问&lt;/strong&gt;：&lt;code&gt;http://服务器IP:3001&lt;/code&gt; 或配置的域名&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;创建管理员账户&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;输入用户名和密码&lt;/li&gt;
+&lt;li&gt;建议使用强密码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;添加监控项&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;点击右上角 &quot;+&quot; 按钮&lt;/li&gt;
+&lt;li&gt;选择监控类型：HTTP(s)、TCP、Ping等&lt;/li&gt;
+&lt;li&gt;输入监控名称和URL/地址&lt;/li&gt;
+&lt;li&gt;设置心跳间隔和超时时间&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;配置通知&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;进入「Settings」&amp;gt;「Notifications」&lt;/li&gt;
+&lt;li&gt;支持：Telegram、Discord、Slack、Email等&lt;/li&gt;
+&lt;li&gt;按提示配置通知渠道&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;仪表板自定义&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;拖拽组件调整布局&lt;/li&gt;
+&lt;li&gt;添加状态页公共链接&lt;/li&gt;
+&lt;li&gt;设置主题颜色&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2&gt;维护与升级&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;备份数据：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 备份数据目录
+tar -czvf uptime-kuma-backup-$(date +%F).tar.gz /path/to/data
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;升级版本：&lt;/strong&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 停止并删除旧容器
+docker stop uptime-kuma
+docker rm uptime-kuma
+
+# 拉取最新镜像
+docker pull louislam/uptime-kuma:latest
+
+# 重新启动容器（使用原参数）
+docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;hr /&gt;
+&lt;h2&gt;常见问题&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;问题&lt;/th&gt;
+&lt;th&gt;解决方案&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;无法访问3001端口&lt;/td&gt;
+&lt;td&gt;检查防火墙设置：&lt;code&gt;sudo ufw allow 3001&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;数据丢失&lt;/td&gt;
+&lt;td&gt;检查挂载目录权限：&lt;code&gt;sudo chown -R 1000:1000 /path/to/data&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;通知不工作&lt;/td&gt;
+&lt;td&gt;检查通知配置，查看容器日志：&lt;code&gt;docker logs uptime-kuma&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;高内存占用&lt;/td&gt;
+&lt;td&gt;添加环境变量：&lt;code&gt;-e DISABLE_ANALYTICS=1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;更新后无法启动&lt;/td&gt;
+&lt;td&gt;检查数据目录权限，尝试回滚到旧版本&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr /&gt;
+&lt;h2&gt;安全建议&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;强制HTTPS访问&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过反向代理启用SSL&lt;/li&gt;
+&lt;li&gt;设置HSTS头部&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;访问控制&lt;/strong&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# Nginx IP限制示例
+location / {
+    allow 192.168.1.0/24;
+    deny all;
+    # ...其他代理设置
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;账户安全&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;启用双因素认证（2FA）&lt;/li&gt;
+&lt;li&gt;使用强密码策略&lt;/li&gt;
+&lt;li&gt;定期轮换密码&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;数据保护&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定期备份&lt;code&gt;/app/data&lt;/code&gt;目录&lt;/li&gt;
+&lt;li&gt;加密备份文件&lt;/li&gt;
+&lt;li&gt;测试恢复流程&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;监控自身健康&lt;/strong&gt;：&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;# 监控Uptime Kuma服务的简单脚本
+curl -I http://localhost:3001 -s | grep &quot;HTTP/1.1 200&quot;
+if [ $? -ne 0 ]; then
+  docker restart uptime-kuma
+  echo &quot;Uptime Kuma restarted at $(date)&quot; &amp;gt;&amp;gt; /var/log/uptime-kuma-monitor.log
+fi
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;推荐架构：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;独立部署服务器&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;将Uptime Kuma部署在专用的服务器（或VPS）上，这台服务器不运行任何其他关键业务。&lt;/li&gt;
+&lt;li&gt;目的：避免因被监控的服务器的故障（如资源耗尽、宕机）导致监控系统同时不可用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;反向代理配置&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;使用Nginx或Caddy作为反向代理，将Uptime Kuma的服务（默认3001端口）暴露到80/443端口。&lt;/li&gt;
+&lt;li&gt;配置SSL证书（如Let&apos;s Encrypt）启用HTTPS，确保通信安全。&lt;/li&gt;
+&lt;li&gt;反向代理服务器可以与Uptime Kuma在同一台机器，也可以分开（更推荐分开，但考虑到成本，同一台也可接受）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;多节点监控&lt;/strong&gt;（可选但推荐）：
+&lt;ul&gt;
+&lt;li&gt;如果监控目标分布在不同的地理位置，建议在多个地区部署Uptime Kuma实例，然后通过主实例汇总状态（需要Uptime Kuma企业版或自行开发集成）。&lt;/li&gt;
+&lt;li&gt;或者使用第三方多地点监控服务作为补充。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据持久化&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;确保Uptime Kuma的数据目录（&lt;code&gt;/app/data&lt;/code&gt;）被持久化存储，并定期备份。&lt;/li&gt;
+&lt;li&gt;备份策略：每天备份数据目录，并传输到另一台服务器或云存储。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;监控目标分布&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;被监控的服务应分布在不同的服务器上，避免单一服务器故障导致多个服务同时不可用。&lt;/li&gt;
+&lt;li&gt;关键服务至少设置两个不同的监控节点（如果有多台监控服务器）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;通知冗余&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;配置至少两种不同的通知方式（如Email + Telegram），避免单一通知渠道失效。&lt;/li&gt;
+&lt;li&gt;重要通知可以设置多个接收人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全措施&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;防火墙设置：只允许反向代理服务器访问Uptime Kuma的3001端口，禁止公网直接访问。&lt;/li&gt;
+&lt;li&gt;启用双因素认证（2FA）保护Uptime Kuma的管理员账户。&lt;/li&gt;
+&lt;li&gt;定期更新Uptime Kuma版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;自监控&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;使用另一个独立的监控服务（如另一台Uptime Kuma实例、Uptime Robot免费版）来监控当前Uptime Kuma的状态页。&lt;/li&gt;
+&lt;li&gt;或者编写简单的cron脚本，当Uptime Kuma不可用时发送通知（但这种方法有局限性，因为如果服务器完全宕机，cron脚本也无法运行）。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资源隔离&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;如果使用Docker部署，可以为容器设置资源限制（CPU、内存），避免监控服务本身占用过多资源。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;日志监控&lt;/strong&gt;：
+&lt;ul&gt;
+&lt;li&gt;收集Uptime Kuma的日志，并定期检查错误信息。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;推荐将Uptime Kuma部署在独立的服务器上，该服务器不运行其他关键业务。通过Nginx反向代理提供HTTPS访问，并配置防火墙规则仅允许反向代理访问监控服务。被监控的服务应分布在多个服务器上，避免单点故障。同时，配置至少两种通知方式（如邮件和Telegram）确保告警可达。定期备份Uptime Kuma的数据目录，并使用另一台独立的监控服务器或第三方服务来监控Uptime Kuma自身的可用性。&lt;/code&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;提示：建议将Uptime Kuma部署在与被监控服务不同的服务器上，避免单点故障影响监控功能&lt;/p&gt;
+&lt;/blockquote&gt;
+</content:encoded></item><item><title>leleo-home-page 个人主页——搭建教程</title><link>https://blog.xiaowon.cn/posts/leleo-home-page/</link><guid isPermaLink="true">https://blog.xiaowon.cn/posts/leleo-home-page/</guid><description>leleo-home-page 个人主页——搭建教程</description><pubDate>Tue, 05 Aug 2025 12:17:47 GMT</pubDate><content:encoded>&lt;h1&gt;leleo-home-page 个人主页搭建教程&lt;/h1&gt;
 &lt;h2&gt;前言&lt;/h2&gt;
 &lt;p&gt;大家好，我是WON。今天给大家带来一篇关于如何搭建个人主页的详细教程，使用的是开源项目 leleo-home-page。这是一个简洁美观且响应式的个人主页模板，非常适合开发者、设计师或内容创作者展示个人品牌。&lt;/p&gt;
 &lt;p&gt;项目预览与源码
