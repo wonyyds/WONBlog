@@ -58,7 +58,7 @@ export const siteConfig: SiteConfig = {
 		},
 	],
 	officialSites: [
-		{ url: "https://xiaowon.cn", alias: "EdgeOne CN" },
+		{ url: "https://blog.xiaowon.cn", alias: "EdgeOne CN" },
 	],
 	cloudProviders: [
 		{
