@@ -5,6 +5,12 @@
       "avatar": "/sponsors/mjt.jpg",
       "date": "2025-08-02",
       "amount": "100 ￥"
+    },
+    {
+      "name": "test1",
+      "avatar": "/sponsors/mjt.jpg",
+      "date": "2025-08-02",
+      "amount": "100 ￥"
     }
   ]
 }
